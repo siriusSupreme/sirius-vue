@@ -6,4 +6,5 @@ test/
 coverage
 mix.sublime-project
 mix.sublime-workspace
+mix-manifest.json
 notes.md
