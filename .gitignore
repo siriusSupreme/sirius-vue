@@ -1,5 +1,8 @@
 # 忽略文件 或者 目录
+.git
+.npmrc
 .DS_Store
+npm-debug.log
 # 忽略当前目录下的 文件 或者 文件夹
 /.idea
 /node_modules
@@ -12,3 +15,5 @@
 composer.phar
 composer.lock
 package-lock.json
+
+
