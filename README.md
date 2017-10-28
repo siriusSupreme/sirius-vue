@@ -1,7 +1,15 @@
 # sirius-vue
 
 
-** Full API **
+## 安装
+
+---
+    npm install --no-bin-links （Windows）
+    或者
+    npm install （Linux）
+
+
+## Full API ##
 
 
     mix.js(src, output);
